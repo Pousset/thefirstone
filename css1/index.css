@@ -1,0 +1,44 @@
+body {
+  background-image: url("images/neige.jpg");
+}
+#ane1 {
+  float: left;
+}
+#ane2 {
+  float: right;
+}
+#mbappe {
+  position: relative;
+
+  width: 590px;
+  height: 280px;
+  left: 43%;
+  margin-left: -345px;
+}
+
+.texte1 {
+  color: blue;
+  clear: both;
+  text-align: center;
+}
+.texte2 {
+  color: darkred;
+  clear: both;
+  text-align: center;
+}
+
+.centrer {
+  text-align: center;
+  font-size: 1.4em;
+}
+h1 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
+.titre1 {
+  opacity: 30%;
+  background-color: rgb(7, 119, 26);
+
+  color: white;
+}
